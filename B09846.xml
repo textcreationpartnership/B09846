@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons for the reversal of the decree against Mrs. Bertie, and her sons</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09846</idno><idno type="EEBO-CITATION">64551649</idno>
+  <idno type="VID">184751</idno>
+  <idno type="EEBO-PROQUEST">2248530754</idno>
+  
+            <idno type="STC">Wing R519B</idno>
+            <idno type="STC">ESTC R182432</idno>
+            <idno type="OCLC">64551649</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09846)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184751)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2871:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons for the reversal of the decree against Mrs. Bertie, and her sons</title>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Inheritance and succession --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:184751:1"/>
+            <head>REASONS FOR THE Reversal of the Decree AGAINST Mrs. <hi>BERTIE,</hi> and her Sons.</head>
+            <p>IT's proved that she was Heir, beloved by her Unkle, de<g ref="char:EOLhyphen"/>clared that she should be, as in Conscience she ought, his Heir; and by all former Wills had the Estate without re<g ref="char:EOLhyphen"/>striction; and by this, upon condition she marries the Lord <hi>Guildford</hi> within three Years, with Limitations over, <hi>&amp;c.</hi>
+            </p>
+            <p>She goes within a Fortnight to the Lady <hi>Wiseman</hi>'s, in obedi<g ref="char:EOLhyphen"/>ence to the Will, prefers her Bill in <hi>Chancery</hi> against all the Parties concerned, praying an Execution of the Trusts, and offering to marry the Lord <hi>G.</hi> according to the direction of her Unkle's Will: sends a Writing under her Hand, that she would marry him when came of Age of Consent, or sooner if her Friends should advise her, and that she would marry no other Person; and this without any reference to Terms of Settlement, <hi>&amp;c.</hi> always declares her self willing, pleased at the naming him, feared it should break on his part. Then she is delivered into <hi>Chancery</hi> by the Lady <hi>Wiseman;</hi> she prays to be continued there, which is refused; then she is put into the Possession of Mrs. <hi>Fiennes</hi> against her will; then she desires to be with the Lord <hi>Griffin,</hi> which is denied, and he is ordered to carry her to the Lady <hi>Hickman</hi>'s at <hi>Gainsbourgh,</hi> 100 Miles from <hi>London,</hi> and ordered by the Chancellor not to marry but upon Terms; there she is kept for an Year and half till the three Years expire; the Lord <hi>G.</hi> never made any application to her by Word or Writing, by himself, or by any others by his Author<g ref="char:EOLhyphen"/>ity or Order.</p>
+            <p>Now the Question is, Whether that very Court which thus re<g ref="char:EOLhyphen"/>strain'd her, shall judge her to have fail'd in her Duty to her Un<g ref="char:EOLhyphen"/>kle's Will.</p>
+            <p>'Tis true, that the Lord <hi>G</hi>'s Trustees did make an offer, but not by his Authority; and 'tis true, that her Trustees and the <hi>Chancery</hi> did insist upon Terms which the Will did not impose.</p>
+            <pb n="2" facs="tcp:184751:2"/>
+            <p>But then it is insisted on, That this Lady hath done all that was consistent with the modesty of a Maiden, and the honour of a Per<g ref="char:EOLhyphen"/>son of her Quality; and this was owned by the Two Chief Justices. Now here's no refusal on her part, nor offer from the Lord <hi>G.</hi> The Act of her Trustees shall never prejudice her; the Act of the Lord <hi>G</hi>'s. Trustees can never bind him, in a matter of Marriage, which is a personal thing; then her tender Years and her Sex are to be considered; here's a moral impossibility upon her to do more; she was, as it were, in Custody, she could not travel of her self an 100 Miles against the consent of her Keeper or Guardian (who was answerable for the Possession of her Person to the Court of <hi>Chancery</hi>) to find out the Lord <hi>G.</hi> to Sollicit and Court him.</p>
+            <p>Then it is to be consider'd, how Equity is to proceed in this Case: By the Civil Law, or Law Natural, which is the Common Reason or Sense of Mankind in general: In case of a mix'd Act, which requires the concurrence of another person, to be willing and to do that which lies in her power, is all that is required by such a condition; there's no Rule of the Common-Law that obliges in this matter, it being a Trust, which the Common-Law cannot intermeddle with; so that the measure of judging in this Case, must be that of right Reason, which is to fulfil the meaning of Testator as far as may be done by his Heir and Legitary. It can never be presumed that he intended it should be in the Lord <hi>Guilford</hi>'s power (to whom no Estate is given,) to deprive his Heir of her Inheritance, or that the Orders of <hi>Chancery</hi> (which are irresisti<g ref="char:EOLhyphen"/>ble by Infants, especially in the Intervals of Parliament) should lose her Title to this Inheritance: It can't be presumed that he could foresee these subsequent accidents; and therefore Equi<g ref="char:EOLhyphen"/>ty ought to do that which in Reason he may be thought to have done, in case he had known what afterwards happened.</p>
+            <p>In all conditions there's a tacit condition implied, that it be possible; and this is no condition precedent, for that she was Heir, and there was a trust for her after the Debts paid till the End of the Three Years.</p>
+            <p>There's no Precedent for this Decree, because there never was such a case before; and the Devise over cannot alter the case; for notwithstanding that, 'tis agreed that such accidents may happen, as though that condition be not performed, the Devise over shall not take place.</p>
+            <p>'Tis not a setled fundamental Rule in Equity, that Trusts are always to be governed by the strict Rules of the Common-Law, as appears in many instances; but Reason and Consci<g ref="char:EOLhyphen"/>ence are to guide, as the circumstances of the Case in Question shall happen to be.</p>
+            <p>It is agreed, that if the Marriage had happened after the 3 years, she should have enjoy'd it; and yet this is as much the making a new Will as can be in our Case; 'twas as much his Will that it should be within that time, as that it should be at all; 'twas agreed, that if by means of the remainder men the Mar<g ref="char:EOLhyphen"/>riage
+<pb n="3" facs="tcp:184751:2"/>had been prevented, she should have kept the Estate; and yet the Words of the Will are as strong, (if the words must be pursued) that if there be no Marriage, it shall go over: so that Equity doth not always follow the meaning of the Testator in a Trust according to the Words, but according to Accidents, and the Equity which arises upon them.</p>
+            <p>In <hi>Walter Overbury</hi>'s Case in the Delegates, in <hi>Charles</hi> the 2d's time, 'twas hel<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, That if a single Man, by his Will, gave the Overplus to his Brother, and after Married, and had a Child, that then such Overplus should go to them, because at the time of making the Will he did not forsee that Event, and Equity must dispose of his Estate as he in Reason may be thought to have willed, if the Event had happened before.</p>
+            <p>But 'tis objected, That this concerns a Personal Estate in a Will: And Sir <hi>Matthew Hale</hi> observed, it belongs <hi>ad alienum forum,</hi> and in those Cases the Rules of that Law ought to guide; but I say Trusts do as much belong <hi>ad alienum forum, i. e.</hi> to a Form dif<g ref="char:EOLhyphen"/>ferent from the Common-Law, as Personal Legacies; and the Civil-Law holds the same Rule for Inheritances as for Goods.</p>
+            <p>But 31 <hi>Hen.</hi> 6. <hi>Fitch, tit. subpaena, pl.</hi> 23. and <hi>Shelley</hi>'s Case, 1 <hi>rep.</hi> 100. is the Case of Land. A Man seized in see, enfeoffs another, and declares the use to his Daughter, and afterwards hath a Son born, the <hi>Chancery</hi> shall order it to the Son, because of the Intent implied, or the tacit Condition supposed in his declaring the use, <hi>i. e.</hi> things standing as they are, supposing no Accidents; now this last destroys the pretence of a Distinction between Land and Goods. Besides, Equity and Reason is the same as to the Meaning and Actions of the Parties, let the Subject-matter of the Bequest be what it will, whether Inheritance or Money.</p>
+            <p>And the Limitation to the first Son, will be under the same Cir<g ref="char:EOLhyphen"/>cumstances as that to the Mother, for 'tis her Son, and Mr. <hi>Cary</hi>'s Heir, and 'tis a Son by her first Husband, and so supposing the Rules of Reason and Equity, which we contend for, the same will extend to both; for such first Son by her first Husband will derive from the Mother all that either Heirship, or an equitable, reason<g ref="char:EOLhyphen"/>able Construction of this devise of the Trust gives to her: Nor can the Reversal of this Decree be of any dangerous Consequence in any other Cases; for that this is never like to happen again, and if it should in every Circumstance, it ought in Conscience and Reason to be governed by the same Rule.</p>
+            <p>
+               <hi>For which Reasons it is humbly hoped, That this Sole Daughter and Heir of the Lord</hi> Willoughby <hi>of</hi> Parham, <hi>Niece and Sole Heir of the Testator, and one whom he in his Conscience thought should and ought to be his Heir, shall not lose this Inheritance from her self, and Son begotten by the Second Son of a Noble Peer; when 'tis owned she did as much as possible towards a Marriage with the Lord</hi> Guilford, <hi>and was prevented by a moral Impossibility put upon her by that very Court, under whose Power and Ordering her Per<g ref="char:EOLhyphen"/>son, and Maintenance, and Place of Residence, and Servants, and the like, were; and under whose Judgment her Estate and Title in question, now are.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:184751:3"/>
+            <p>REASONS FOR The Reversal of the De<g ref="char:EOLhyphen"/>cree against Mrs. <hi>Bertie,</hi> and her Sons.</p>
+            <pb facs="tcp:184751:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
